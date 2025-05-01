@@ -1,16 +1,8 @@
-# quiz_app
+Quiz App
 
-A new Flutter project.
 
-## Getting Started
+![WhatsApp Image 2025-05-01 at 22 16 31_ce63737d](https://github.com/user-attachments/assets/b70625db-4df7-452a-af61-69fe798ebbd6)
 
-This project is a starting point for a Flutter application.
+![WhatsApp Image 2025-05-01 at 22 16 31_721e51de](https://github.com/user-attachments/assets/2f85b379-ca0d-45be-ba70-6b2ab6fd9618)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2025-05-01 at 22 16 31_a175f1e2](https://github.com/user-attachments/assets/6ba9f7c4-cf4d-4c10-80ca-7acc920e836d)
